@@ -1,37 +1,32 @@
 # Change these first
-owner: upptime # Your GitHub organization or username
-repo: upptime # Your GitHub repository name
+owner: flynnd6 # Your GitHub organization or username
+repo: nda-stats # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+  - name: New Dimensions Active
+    url: https://newdimensionsactive.ie
+  - name: CDN Prod
+    url: https://cdn.newdimensionsactive.ie/wp-content/uploads/2020/03/trs_48f2dfa3dd5c5cb8fb3f5d1cc3e800c0-e1598116943298.png
+  - name: Development Website
+    url: $WS_SECRET_SITE
+  - name: CDN Dev
+    url: $DEV_CDN_SECRET_SITE
+  - name: NDA IP Ping
+    url: 34.255.40.57
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: StatusPage
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Update description here.
   navbar:
     - title: Status
-      href: /
+      href: /nda-stats
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
