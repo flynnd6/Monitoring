@@ -6,14 +6,20 @@ repo: monitoring # Your GitHub repository name
 sites:
   - name: New Dimensions Active
     url: https://newdimensionsactive.ie
+    maxResponseTime: 5000
   - name: CDN Prod
     url: https://cdn.newdimensionsactive.ie/wp-content/uploads/2020/03/trs_48f2dfa3dd5c5cb8fb3f5d1cc3e800c0-e1598116943298.png
+    maxResponseTime: 5000
   - name: Development Website
     url: $WS_SECRET_SITE
+    maxResponseTime: 5000
   - name: CDN Dev
     url: $DEV_CDN_SECRET_SITE
+    maxResponseTime: 5000
   - name: NDA IP Ping
     url: 34.255.40.57
+    maxResponseTime: 5000
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
