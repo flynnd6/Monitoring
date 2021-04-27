@@ -1,7 +1,7 @@
 url: $DEV_CDN_SECRET_SITE
 status: up
 code: 200
-responseTime: 369
-lastUpdated: 2021-04-26T23:26:30.296Z
+responseTime: 160
+lastUpdated: 2021-04-27T23:27:09.794Z
 startTime: Thu Apr 15 2021 22:00:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
