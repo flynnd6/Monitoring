@@ -7,7 +7,7 @@ sites:
   - name: New Dimensions Active
     url: https://newdimensionsactive.ie
     maxResponseTime: 5000
-  - name: CDN Prod
+  - name: New Dimensions Active CDN
     url: https://cdn.newdimensionsactive.ie/wp-content/uploads/2018/11/trs-white.png
     maxResponseTime: 5000
 #  - name: Development Website
@@ -16,14 +16,14 @@ sites:
 #  - name: CDN Dev
 #    url: $DEV_CDN_SECRET_SITE
 #    maxResponseTime: 5000
-  - name: NDA IP Ping
+  - name: New Dimensions Active IP
     url: 34.255.40.57
     maxResponseTime: 5000
     __dangerous__insecure: true
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
+  # cname: monitoring.declanflynn.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
