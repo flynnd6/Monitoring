@@ -43,8 +43,8 @@ assignees: # Users to assign downtime issues (optional)
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
+  staticSite: "0 7 * * 1"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/30 * * * *"
+  uptime: "*/60 * * * *"
