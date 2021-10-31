@@ -15,6 +15,9 @@ sites:
     maxResponseTime: 5000
     __dangerous__insecure: true
 
+assignees: # Users to assign downtime issues (optional)
+  - flynnd6
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: monitoring.declanflynn.dev
@@ -30,10 +33,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-assignees: # Users to assign downtime issues (optional)
-  - flynnd6
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
