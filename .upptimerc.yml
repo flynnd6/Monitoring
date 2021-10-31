@@ -10,12 +10,6 @@ sites:
   - name: New Dimensions Active CDN
     url: https://cdn.newdimensionsactive.ie/wp-content/uploads/2018/11/trs-white.png
     maxResponseTime: 5000
-#  - name: Development Website
-#    url: $WS_SECRET_SITE
-#    maxResponseTime: 5000
-#  - name: CDN Dev
-#    url: $DEV_CDN_SECRET_SITE
-#    maxResponseTime: 5000
   - name: New Dimensions Active IP
     url: 34.255.40.57
     maxResponseTime: 5000
