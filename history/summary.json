@@ -40,17 +40,17 @@
     "url": "34.255.40.57",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "new-dimensions-active-ip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1322,
-    "timeDay": 8149,
-    "timeWeek": 3610,
-    "timeMonth": 2416,
-    "timeYear": 1322,
+    "time": 1317,
+    "timeDay": 6220,
+    "timeWeek": 3292,
+    "timeMonth": 2312,
+    "timeYear": 1317,
     "dailyMinutesDown": {}
   }
 ]
