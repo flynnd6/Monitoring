@@ -10,10 +10,6 @@ sites:
   - name: New Dimensions Active CDN
     url: https://cdn.newdimensionsactive.ie/wp-content/uploads/2018/11/trs-white.png
     maxResponseTime: 5000
-  - name: New Dimensions Active IP
-    url: 34.255.40.57
-    maxResponseTime: 5000
-    __dangerous__insecure: true
 
 assignees: # Users to assign downtime issues (optional)
   - flynnd6
