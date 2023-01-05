@@ -1,7 +1,7 @@
 url: https://newdimensionsactive.ie
-status: up
-code: 200
-responseTime: 3464
-lastUpdated: 2023-01-05T02:05:41.837Z
+status: degraded
+code: 500
+responseTime: 12939
+lastUpdated: 2023-01-05T02:45:45.843Z
 startTime: Thu Apr 15 2021 22:00:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
