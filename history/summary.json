@@ -4,7 +4,7 @@
     "url": "https://newdimensionsactive.ie",
     "icon": "https://favicons.githubusercontent.com/newdimensionsactive.ie",
     "slug": "new-dimensions-active",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1907,
     "timeDay": 1213,
-    "timeWeek": 1495,
+    "timeWeek": 1436,
     "timeMonth": 1913,
     "timeYear": 1893,
     "dailyMinutesDown": {}
